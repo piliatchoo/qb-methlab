@@ -65,45 +65,34 @@ Config.DropOffs = "CHECK THE CODE" -- Drop off spots
 Config.MethSell = vector3(1532.0511, 1728.1282, 109.9181)
 
 --Robbery
-
 Config.Pharmacy = {
     ["takeables"] = {
         [1] = {
-            x = -170.39, 
-            y = 6386.89, 
-            z = 31.50,
+            vector3(-170.39, 6386.89, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 3},
         },
         [2] = {
-            x = -174.28, 
-            y = 6386.15, 
-            z = 31.50,
+            vector3(-174.28, 6386.15, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 4},
         },
         [3] = {
-            x = -175.06, 
-            y = 6381.07, 
-            z = 31.50,
+            vector3(-175.06, 6381.07, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 3},
         },
         [4] = {
-            x = -176.59, 
-            y = 6382.70, 
-            z = 31.50,
+            vector3(-176.59, 6382.70, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 5},
         },
         [5] = {
-            x = -176.37, 
-            y = 6383.89, 
-            z = 31.50,
+            vector3(-176.37, 6383.89, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 4},
