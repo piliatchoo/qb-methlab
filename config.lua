@@ -68,31 +68,31 @@ Config.MethSell = vector3(1532.0511, 1728.1282, 109.9181)
 Config.Pharmacy = {
     ["takeables"] = {
         [1] = {
-            vector3(-170.39, 6386.89, 31.50),
+            coords = vector3(-170.39, 6386.89, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 3},
         },
         [2] = {
-            vector3(-174.28, 6386.15, 31.50),
+            coords = vector3(-174.28, 6386.15, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 4},
         },
         [3] = {
-            vector3(-175.06, 6381.07, 31.50),
+            coords = vector3(-175.06, 6381.07, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 3},
         },
         [4] = {
-            vector3(-176.59, 6382.70, 31.50),
+            coords = vector3(-176.59, 6382.70, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 5},
         },
         [5] = {
-            vector3(-176.37, 6383.89, 31.50),
+            coords = vector3(-176.37, 6383.89, 31.50),
             isDone = false,
             isBusy = false,
             reward =  {name = "psuedoephedrine", amount = 4},
